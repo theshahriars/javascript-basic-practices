@@ -1,1 +1,1 @@
-# javascript-basic-practices
+# JavaScript Basic Practices
